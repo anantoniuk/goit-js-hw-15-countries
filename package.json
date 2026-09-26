@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-15-countries",
+  "version": "1.0.0",
+  "description": "Find need information about countrie",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anantoniuk/goit-js-hw-15-countries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anantoniuk/goit-js-hw-15-countries/issues"
+  },
+  "homepage": "https://github.com/anantoniuk/goit-js-hw-15-countries#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.9",
+    "simple-notify": "^1.0.6"
+  }
+}
