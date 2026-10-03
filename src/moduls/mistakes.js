@@ -12,7 +12,7 @@ export const mistake = () => {
     customIcon: "",
     showIcon: false,
     showCloseButton: false,
-    autoclose: false,
+    autoclose: true,
     autotimeout: 3000,
     notificationsGap: null,
     notificationsPadding: null,
